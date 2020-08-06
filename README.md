@@ -2,7 +2,7 @@
 *Reading notes and class notes for 201 days.*
 
 ### Table of Contents
-1. [**Reading 1**]()
+1. [**Reading 1**](class-01.md)
 2. [**Reading 2**]()
 2. [**Reading 3**]()
 2. [**Reading 4**]()

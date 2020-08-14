@@ -1,4 +1,4 @@
-# Class-01 reading Notes
+# Class-02 reading Notes
 
 ### things thought during reading
 JavaScript makes most things happen in a project where as css just makes it all pretty.

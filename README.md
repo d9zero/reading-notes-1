@@ -3,8 +3,8 @@
 
 ### Table of Contents
 1. [**Reading 1**](class-01.md)
-2. [**Reading 2**]()
-2. [**Reading 3**]()
+2. [**Reading 2**](class-02.md)
+2. [**Reading 3**](class-03.md)
 2. [**Reading 4**]()
 2. [**Reading 5**]()
 2. [**Reading 6**]()

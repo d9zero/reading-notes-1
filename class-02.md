@@ -1,7 +1,7 @@
 # Class-01 reading Notes
 
 ### things thought durring reading
-JavaScrips makes most things happen in a project where as css just makes it all prettyt
+JavaScrips makes most things happen in a project where as css just makes it all prettytgit 
 
 
 ### links to 102 notes on some chapters
